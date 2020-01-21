@@ -1,6 +1,3 @@
-
-
-
 import webbrowser
 
 def openlink(txt1):
